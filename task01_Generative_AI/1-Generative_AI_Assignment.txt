@@ -1,0 +1,35 @@
+
+Assignment: What is Generative AI?
+Student Name: [M. Fahad Khakwani]
+Course: AI - GIAIC
+
+Introduction:
+Generative AI aik aisi Artificial Intelligence ki field hai jo naye text, images, music, videos ya coding content ko khud generate karti hai. Ye AI sirf data ko analyze nahi karti, balki naye ideas aur cheezein create karne ki capability rakhti hai.
+
+Generative AI Kya Hai?
+Generative AI ka matlab hai "generate karne wali AI." Iska kaam naye content banana hai based on training data. Ye AI models apne seekhe hue knowledge ko use karke naye sentences, pictures, songs, ya videos create karte hain.
+
+Examples of Generative AI:
+- ChatGPT: Text generate karta hai, jaise essays, poems, ya coding.
+- DALL·E: Text description se images banata hai.
+- Music LM: AI se naye gaane banaye ja sakte hain.
+- Deepfake Videos: Real insano ke faces ko videos me replace karta hai.
+
+Popular Technologies:
+- GPT (Generative Pre-trained Transformer) — Text generation ke liye
+- GANs (Generative Adversarial Networks) — Images aur videos ke liye
+- VAEs (Variational Autoencoders) — Data generation ke liye
+
+Applications of Generative AI:
+- Content Creation: Blog likhna, graphic design banana
+- Entertainment: Movies me special effects banana
+- Healthcare: Naye medicine compounds design karna
+- Education: Students ke liye personalized notes banana
+
+Ethical Concerns:
+- Fake news aur deepfakes ka misuse
+- Copyright violation
+- Bias in generated content
+
+Conclusion:
+Generative AI technology duniya me naye naye creative kaam asaan bana rahi hai. Lekin iske sahi istemal ke saath saath ethical issues ko bhi samajhna zaroori hai. Aane wale future me Generative AI aur zyada powerful aur important banegi.
