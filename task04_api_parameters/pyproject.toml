@@ -1,14 +1,9 @@
 [project]
-name = "task03-pydantic"
+name = "task04-api_parameters"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "fastapi[standard]>=0.115.12",
-]
-
-[tool.uv.workspace]
-members = [
-    "task05",
 ]
